@@ -72,7 +72,7 @@
         <version.lib.shrinkwrap-resolver>3.0.1</version.lib.shrinkwrap-resolver>
         <version.lib.spotbugs-annotations>3.1.12</version.lib.spotbugs-annotations>
         <version.lib.surefire.testng>3.0.0-M5</version.lib.surefire.testng>
-        <version.lib.testng>7.5</version.lib.testng>
+        <version.lib.testng>7.5.1</version.lib.testng>
         <version.lib.zipkin.junit>2.12.5</version.lib.zipkin.junit>
         <version.lib.bedrock>5.0.11</version.lib.bedrock>
         <version.lib.awaitility>3.1.6</version.lib.awaitility>
